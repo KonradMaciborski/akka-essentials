@@ -4,20 +4,150 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94f1a095-cb61-45b6-a718-642b3fea8f84" name="Changes" comment="" />
+    <list default="true" id="94f1a095-cb61-45b6-a718-642b3fea8f84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$01acae5f2f4c7be73616$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$01acae5f2f4c7be73616.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$01acae5f2f4c7be73616.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$13b1abeee7b7301d3542$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$13b1abeee7b7301d3542.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$13b1abeee7b7301d3542.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9273e8fba6bae2035de9$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9273e8fba6bae2035de9.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9273e8fba6bae2035de9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$aee47cab32bbb3695162$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$aee47cab32bbb3695162.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$aee47cab32bbb3695162.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/akka-essentials-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/akka-essentials-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-akka-essentials-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-essentials/akka-essentials$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-essentials/akka-essentials$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-essentials/akka-essentials_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/akka-essentials/akka-essentials_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials$sources-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/akka-essentials-akka-essentials_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/akka-essentials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/akka-essentials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2Tl7nVvwFPk0MyJIGqAEhfcr0fZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,5 +158,16 @@
       <updated>1691605985104</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
